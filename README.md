@@ -24,3 +24,4 @@ b. Visualize the classified data points using a scatter plot.
 # Task 3
 
 Creating a Checkerboard Pattern Grayscale Image. Define a function make_checkerboard(w, h, sq, fore_color, back_color) to create a checkerboard pattern image. Set the width (w), height (h), square size (sq), foreground color (fore_color), and background color (back_color). Display the generated checkerboard image using OpenCV.
+![image](https://github.com/hassan-khld/CV-Exercises/assets/157969530/bd89c84d-7c34-49c6-a0a9-5c7b8e4d1adf)
